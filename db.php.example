@@ -1,10 +1,10 @@
 <?php
 
 $db = [
-    'host' => 'localhost',
-    'user' => 'dariaunb_tr',
-    'pass' => '07amotrc77A!',
-    'db' => 'dariaunb_tr',
+    'host' => '',
+    'user' => '',
+    'pass' => '',
+    'db' => '',
 ];
 
 $dsn = "mysql:host={$db['host']};dbname={$db['db']};charset=utf8";
@@ -73,12 +73,12 @@ function get_finance_today($type)
         $minus = $minus ?? 0;
         $html .= $plus - $minus;
     } else {
-        $stmt = $pdo->prepare("SELECT SUM(f.amount) as amount, f.type, fc.title FROM finance f LEFT JOIN finance_cats fc ON f.category = fc.id WHERE f.type = ? AND DATE(date_add) = DATE(?) GROUP BY fc.title ");
-        $stmt->execute([$type, date('Y-m-d')]);
-        foreach ($stmt->fetchAll() as $item) {
-            $html .= "{$item['title']}: {$item['amount']}" . PHP_EOL;
-        }
+    $stmt = $pdo->prepare("SELECT SUM(f.amount) as amount, f.type, fc.title FROM finance f LEFT JOIN finance_cats fc ON f.category = fc.id WHERE f.type = ? AND DATE(date_add) = DATE(?) GROUP BY fc.title ");
+    $stmt->execute([$type, date('Y-m-d')]);
+    foreach ($stmt->fetchAll() as $item) {
+        $html .= "{$item['title']}: {$item['amount']}" . PHP_EOL;
     }
+}
     return $html;
 }
 function get_finance_month($type)
