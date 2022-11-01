@@ -1,0 +1,5084 @@
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809110
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 4
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665404431
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809111
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 5
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665404501
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809112
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 6
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665404980
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809113
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 7
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665405050
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809114
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 12
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665405484
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809115
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 14
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665406531
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809116
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 16
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665406533
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809117
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 17
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665407131
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809118
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 19
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665407136
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809119
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 21
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665407820
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809120
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 23
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665407822
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809121
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 25
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665407824
+                            [text] => Категории доходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809122
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 27
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665407827
+                            [text] => Категории расходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809123
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 29
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665408247
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809124
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 31
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665408249
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809125
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 33
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665408269
+                            [text] => Категории доходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809126
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 35
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665408272
+                            [text] => Категории расходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809127
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 37
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665408280
+                            [text] => Все категории
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809128
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 39
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665409136
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809129
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 41
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665409138
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809130
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 43
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665409141
+                            [text] => Категории доходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809131
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 45
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665409144
+                            [text] => Категории расходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809132
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 47
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665409150
+                            [text] => Все категории
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809133
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 49
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665409182
+                            [text] => Доход: 75000 - зарплата
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809134
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 51
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665409370
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809135
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 53
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665409375
+                            [text] => Все категории
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809136
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 55
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665410022
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809137
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 57
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665410025
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809138
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 59
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665410027
+                            [text] => Категории доходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809139
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 61
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665410028
+                            [text] => Категории расходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809140
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 63
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665410048
+                            [text] => Расход: 5000 - коммунальные услуги
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809141
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 65
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665410057
+                            [text] => Расходы за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809142
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 66
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665410089
+                            [text] => Итого за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809143
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 68
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665410105
+                            [text] => Доходы за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809144
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 69
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665410970
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809145
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 71
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665410972
+                            [text] => Доходы за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809146
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 73
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665410976
+                            [text] => Расходы за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809147
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 75
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665411353
+                            [text] => Итого за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809148
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 77
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412181
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809149
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 79
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412183
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809150
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 81
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412185
+                            [text] => Категории доходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809151
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 83
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412186
+                            [text] => Категории расходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809152
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 85
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412190
+                            [text] => Все категории
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809153
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 87
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412192
+                            [text] => Доходы за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809154
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 89
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412194
+                            [text] => Расходы за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809155
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 91
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412196
+                            [text] => Итого за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809156
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 93
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412199
+                            [text] => Доходы за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809157
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 95
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412204
+                            [text] => Расходы за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809158
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 97
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412207
+                            [text] => Итого за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809159
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 99
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665412269
+                            [text] => Доход: 1000 - Зарплата
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809160
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 101
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415320
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809161
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 103
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415325
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809162
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 105
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415327
+                            [text] => Категории доходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809163
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 107
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415329
+                            [text] => Категории расходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809164
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 109
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415332
+                            [text] => Доходы за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809165
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 111
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415338
+                            [text] => Доходы за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809166
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 113
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415341
+                            [text] => Расходы за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809167
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 115
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415344
+                            [text] => Расходы за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809168
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 117
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415346
+                            [text] => Итого за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809169
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 119
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415348
+                            [text] => Итого за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809170
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 121
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415350
+                            [text] => Все категории
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809171
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 123
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415725
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809172
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 125
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415728
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809173
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 127
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415731
+                            [text] => Категории доходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809174
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 129
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665415733
+                            [text] => Категории расходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809175
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 131
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665416085
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809176
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 133
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665416093
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809177
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 135
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665416095
+                            [text] => Категории доходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809178
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 137
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665416097
+                            [text] => Категории расходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809179
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 139
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665416099
+                            [text] => Все категории
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809180
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 141
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 5266340003
+                                            [is_bot] => 
+                                            [first_name] => Daria
+                                            [username] => WakeUpFuckUp
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 5266340003
+                                            [first_name] => Daria
+                                            [username] => WakeUpFuckUp
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665416498
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809181
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 143
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 5266340003
+                                            [is_bot] => 
+                                            [first_name] => Daria
+                                            [username] => WakeUpFuckUp
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 5266340003
+                                            [first_name] => Daria
+                                            [username] => WakeUpFuckUp
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665416501
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809182
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 145
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 5266340003
+                                            [is_bot] => 
+                                            [first_name] => Daria
+                                            [username] => WakeUpFuckUp
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 5266340003
+                                            [first_name] => Daria
+                                            [username] => WakeUpFuckUp
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665416517
+                            [text] => Доход: 80000 - зарплата
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809183
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 147
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665419229
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809184
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 149
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665419239
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809185
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 151
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665419242
+                            [text] => Категории доходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809186
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 153
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665419244
+                            [text] => Категории расходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809187
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 155
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665419246
+                            [text] => Все категории
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809188
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 157
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665419392
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809189
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 159
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [is_bot] => 
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665471270
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809190
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 161
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [is_bot] => 
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665471284
+                            [text] => /help
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 5
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809191
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 163
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [is_bot] => 
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665471291
+                            [text] => Категории доходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809192
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 165
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [is_bot] => 
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665471293
+                            [text] => Категории расходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809193
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 167
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [is_bot] => 
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665471295
+                            [text] => Все категории
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809194
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 169
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [is_bot] => 
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665471302
+                            [text] => Доходы за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809195
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 171
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [is_bot] => 
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665471315
+                            [text] => Доход: 1000 - зарплата
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809196
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 173
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [is_bot] => 
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665471326
+                            [text] => Доходы за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809197
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 175
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [is_bot] => 
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665471336
+                            [text] => Итого за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809198
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 177
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571404
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809199
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 179
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571406
+                            [text] => Help
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809200
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 181
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571409
+                            [text] => Категории доходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809201
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 183
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571410
+                            [text] => Категории расходов
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809202
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 185
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571412
+                            [text] => Доходы за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809203
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 187
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571413
+                            [text] => Доходы за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809204
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 189
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571415
+                            [text] => Расходы за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809205
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 191
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571419
+                            [text] => Итого за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809206
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 193
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571424
+                            [text] => Расходы за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809207
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 195
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571440
+                            [text] => Доход: 150000 - другое
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809208
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 197
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571444
+                            [text] => Доходы за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809209
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 199
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665571447
+                            [text] => Итого за сегодня
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809210
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 201
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 5266340003
+                                            [is_bot] => 
+                                            [first_name] => Daria
+                                            [username] => WakeUpFuckUp
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 5266340003
+                                            [first_name] => Daria
+                                            [username] => WakeUpFuckUp
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665912477
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809211
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 203
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 5266340003
+                                            [is_bot] => 
+                                            [first_name] => Daria
+                                            [username] => WakeUpFuckUp
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 5266340003
+                                            [first_name] => Daria
+                                            [username] => WakeUpFuckUp
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665915234
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809212
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 205
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [is_bot] => 
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1465082058
+                                            [first_name] => Bad
+                                            [last_name] => Gateway
+                                            [username] => Nutakoe_id
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1665915359
+                            [text] => Итого за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809213
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 207
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [is_bot] => 
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1666277118
+                            [text] => Доходы за текущий месяц
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 463809214
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 209
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [is_bot] => 
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 1716866100
+                                            [first_name] => Vladislav
+                                            [username] => pokorok
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1666277228
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
