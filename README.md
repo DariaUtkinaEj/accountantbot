@@ -19,4 +19,4 @@
 Код бота открыт. (Можно попробовать развернуть у себя и затем потыкать!)
 
 
-[My_Accountant0_Bot](https://web.telegram.org/k/#@My_Accountant0_Bot) - мой бот.
+[@TheBestAccountantBot](https://web.telegram.org/k/#@TheBestAccountantBot) - мой бот.
